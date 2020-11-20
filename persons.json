@@ -1,0 +1,68 @@
+[{
+    "1": {
+        "name": {
+            "first": "Flavio Alberto",
+            "middle": "Maia",
+            "surname": "Dutra",
+            "suffix": null,
+            "nickname": null
+        },
+        "birth": {
+            "sex": "m",
+            "date": "1982-01-10",
+            "local": "Hospital e Maternidade Central",
+            "city": "Sao Caetano do Sul",
+            "state": "Sao Paulo",
+            "country": "Brazil",
+            "source": null,
+            "parents": {
+                "biological": [2, 3],
+                "adoptive": null
+            }
+        }
+    },
+    "2": {
+        "name": {
+            "first": "Octavio",
+            "middle": "Branco",
+            "surname": "Dutra",
+            "suffix": "Filho",
+            "nickname": "Tavico"
+        },
+        "birth": {
+            "sex": "m",
+            "date": "1960-01-10",
+            "local": null,
+            "city": "Sao Paulo",
+            "state": "Sao Paulo",
+            "country": "Brazil",
+            "source": null,
+            "parents": {
+                "biological": [4, 5],
+                "adoptive": null
+            }
+        }
+    },
+    "3": {
+        "name": {
+            "first": "Fatima Luisa",
+            "middle": null,
+            "surname": "Maia",
+            "suffix": null,
+            "nickname": null
+        },
+        "birth": {
+            "sex": "m",
+            "date": "1963-01-10",
+            "local": null,
+            "city": "Sao Caetano do Sul",
+            "state": "Sao Paulo",
+            "country": "Brazil",
+            "source": null,
+            "parents": {
+                "biological": [6, 7],
+                "adoptive": null
+            }
+        }
+    }
+}]
