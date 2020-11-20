@@ -1,55 +1,53 @@
 - 1:
-  - name:
-    - first: Flavio Alberto
-      middle: Maia 
-      surname: Dutra
-      suffix: 
-      nickname: 
-  - birth:
-    - sex: m
-      date: 1982-01-10
-      local: Hospital e Maternidade Central
-      city: Sao Caetano do Sul
-      state: Sao Paulo
-      country: Brazil
-      source: 
-  - parents:
-    - biological: [2,3]
-    - adoptive:
-- 2:
-  - name:
-    - first: Octavio
-      middle: Branco 
-      surname: Dutra
-      suffix: Filho
-      nickname: Tavico
-  - birth:
-    - sex: m
-      date: 1960-01-10
-      local: 
-      city: Sao Paulo
-      state: Sao Paulo
-      country: Brazil
-      source: 
-  - parents:
-    - biological: [4,5]
-    - adoptive:
-- 3:
-  - name:
-    - first: Fatima Luisa
-      middle: 
-      surname: Maia
-      suffix: 
-      nickname: 
-  - birth:
-    - sex: f
-      date: 1965-01-10
-      local: 
-      city: Sao Caetano do Sul
-      state: Sao Paulo
-      country: Brazil
-      source: 
-  - parents:
-    - biological: [6,7]
-    - adoptive:
-
+    basic_info:
+        color_skin: white
+        color_eyes: brown
+        color_hair: brown
+        height: 180
+        profession: 
+        sex: m
+        weight: 78
+    events:
+        birth:
+            date: 1982-01-10
+            local: Hospital e Maternidade Central
+            city: Sao Caetano do Sul
+            state: Sao Paulo
+            country: Brazil
+            source: []
+        baptism:
+            date: 1982-03-10
+            local: Igreja
+            city: Sao Caetano do Sul
+            state: Sao Paulo
+            country: Brazil
+            source: []
+        casamento:
+            date: 
+            local: 
+            city: 
+            state: 
+            country: 
+            source: []
+        death:
+            date: 
+            local: 
+            city: 
+            state: 
+            country: 
+            source: []
+        burial:
+            date: 
+            local: 
+            city: 
+            state: 
+            country: 
+            source: []
+    name:
+        first: Flavio Alberto
+        middle: Maia 
+        surname: Dutra
+        prefix: 
+        suffix: 
+        nickname: 
+    parents: [[2, 1], [3,1]]
