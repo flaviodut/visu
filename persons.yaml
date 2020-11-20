@@ -1,0 +1,55 @@
+- 1:
+  - name:
+    - first: Flavio Alberto
+      middle: Maia 
+      surname: Dutra
+      suffix: 
+      nickname: 
+  - birth:
+    - sex: m
+      date: 1982-01-10
+      local: Hospital e Maternidade Central
+      city: Sao Caetano do Sul
+      state: Sao Paulo
+      country: Brazil
+      source: 
+  - parents:
+    - biological: [2,3]
+    - adoptive:
+- 2:
+  - name:
+    - first: Octavio
+      middle: Branco 
+      surname: Dutra
+      suffix: Filho
+      nickname: Tavico
+  - birth:
+    - sex: m
+      date: 1960-01-10
+      local: 
+      city: Sao Paulo
+      state: Sao Paulo
+      country: Brazil
+      source: 
+  - parents:
+    - biological: [4,5]
+    - adoptive:
+- 3:
+  - name:
+    - first: Fatima Luisa
+      middle: 
+      surname: Maia
+      suffix: 
+      nickname: 
+  - birth:
+    - sex: f
+      date: 1965-01-10
+      local: 
+      city: Sao Caetano do Sul
+      state: Sao Paulo
+      country: Brazil
+      source: 
+  - parents:
+    - biological: [6,7]
+    - adoptive:
+
